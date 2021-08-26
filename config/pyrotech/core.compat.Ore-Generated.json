@@ -34,23 +34,9 @@
         "thermalfoundation:material:196"
       ]
     },
-    "oreCobalt": {
-      "slagColor": "1c5bc1",
-      "langKey": [
-        "contenttweaker:tile.contenttweaker.sub_block_holder_0",
-        "contenttweaker:tile.contenttweaker.sub_block_holder_1",
-        "contenttweaker:tile.contenttweaker.sub_block_holder_1"
-      ],
-      "output": [
-        "contenttweaker:material_part:47"
-      ]
-    },
     "oreCopper": {
       "slagColor": "ffaa1c",
       "langKey": [
-        "contenttweaker:tile.contenttweaker.sub_block_holder_0",
-        "contenttweaker:tile.contenttweaker.sub_block_holder_1",
-        "contenttweaker:tile.contenttweaker.sub_block_holder_2",
         "geolosys:geolosys.cluster.copper",
         "immersiveengineering:tile.immersiveengineering.ore.copper",
         "libvulpes:material.Copper",
@@ -58,7 +44,6 @@
         "thermalfoundation:tile.thermalfoundation.ore.copper"
       ],
       "output": [
-        "contenttweaker:material_part:3",
         "immersiveengineering:metal:20",
         "libvulpes:productnugget:4",
         "thermalfoundation:material:192"
@@ -99,16 +84,12 @@
     "oreLead": {
       "slagColor": "95afee",
       "langKey": [
-        "contenttweaker:tile.contenttweaker.sub_block_holder_1",
-        "contenttweaker:tile.contenttweaker.sub_block_holder_1",
-        "contenttweaker:tile.contenttweaker.sub_block_holder_2",
         "geolosys:geolosys.cluster.lead",
         "immersiveengineering:tile.immersiveengineering.ore.lead",
         "nuclearcraft:tile.nuclearcraft.ore.lead",
         "thermalfoundation:tile.thermalfoundation.ore.lead"
       ],
       "output": [
-        "contenttweaker:material_part:36",
         "immersiveengineering:metal:22",
         "thermalfoundation:material:195"
       ]
@@ -147,16 +128,12 @@
     "oreSilver": {
       "slagColor": "e8f6fd",
       "langKey": [
-        "contenttweaker:tile.contenttweaker.sub_block_holder_1",
-        "contenttweaker:tile.contenttweaker.sub_block_holder_1",
-        "contenttweaker:tile.contenttweaker.sub_block_holder_1",
         "geolosys:geolosys.cluster.silver",
         "iceandfire:tile.iceandfire.silverOre",
         "immersiveengineering:tile.immersiveengineering.ore.silver",
         "thermalfoundation:tile.thermalfoundation.ore.silver"
       ],
       "output": [
-        "contenttweaker:material_part:25",
         "iceandfire:silver_nugget:0",
         "immersiveengineering:metal:23",
         "thermalfoundation:material:194"
@@ -165,16 +142,12 @@
     "oreTin": {
       "slagColor": "c3e9ff",
       "langKey": [
-        "contenttweaker:tile.contenttweaker.sub_block_holder_0",
-        "contenttweaker:tile.contenttweaker.sub_block_holder_1",
-        "contenttweaker:tile.contenttweaker.sub_block_holder_2",
         "geolosys:geolosys.cluster.tin",
         "libvulpes:material.Tin",
         "nuclearcraft:tile.nuclearcraft.ore.tin",
         "thermalfoundation:tile.thermalfoundation.ore.tin"
       ],
       "output": [
-        "contenttweaker:material_part:14",
         "libvulpes:productnugget:5",
         "thermalfoundation:material:193"
       ]
