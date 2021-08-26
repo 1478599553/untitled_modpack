@@ -20,3 +20,4 @@ launcher_profiles.json
 *.log
 usercache.json
 usernamecache.json
+patchouli_data.json
