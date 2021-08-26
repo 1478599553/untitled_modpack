@@ -1,0 +1,123 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "pyrotech:book": {
+      "viewedEntries": [
+        "pyrotech:survive/worktable",
+        "pyrotech:survive/introduction",
+        "pyrotech:survive/campfire",
+        "pyrotech:adapt/plant_fibers_dried",
+        "pyrotech:gather/plant_fibers",
+        "pyrotech:survive/flint_and_tinder",
+        "pyrotech:survive/chopping_block",
+        "pyrotech:gather/fossil",
+        "pyrotech:innovate/pit_burn",
+        "pyrotech:innovate/log_pile",
+        "pyrotech:innovate/stone_worktable",
+        "pyrotech:gather/stone_cobbled",
+        "pyrotech:survive/rocks",
+        "pyrotech:gather/storage",
+        "pyrotech:bloom/furnace",
+        "pyrotech:innovate/coal_torch",
+        "pyrotech:accelerate/igniters",
+        "pyrotech:appendix/credits",
+        "pyrotech:innovate/stone_oven",
+        "pyrotech:innovate/stone_crucible",
+        "pyrotech:bloom/mechanical_mulcher",
+        "pyrotech:bloom/mechanical_bellows",
+        "pyrotech:innovate/compacting_bin",
+        "pyrotech:bloom/refractory_oven",
+        "pyrotech:innovate/stone_brick",
+        "pyrotech:adapt/anvil_granite",
+        "pyrotech:adapt/stone",
+        "pyrotech:gather/clay_lump_of",
+        "pyrotech:bloom/bloom",
+        "pyrotech:accelerate/refractory_burn",
+        "pyrotech:innovate/bow_drill",
+        "pyrotech:appendix/ignition",
+        "pyrotech:innovate/twine_durable",
+        "pyrotech:survive/tools_crude",
+        "pyrotech:gather/limestone",
+        "pyrotech:gather/shard_bone_and_flint",
+        "pyrotech:survive/food_roasted",
+        "pyrotech:bloom/dense_nether_coal",
+        "pyrotech:bloom/shards_advanced",
+        "pyrotech:bloom/wither_forge",
+        "pyrotech:accelerate/bloomery",
+        "pyrotech:accelerate/refractory_brick_block",
+        "pyrotech:innovate/refractory_brick",
+        "pyrotech:bloom/slag",
+        "pyrotech:bloom/shears_diamond",
+        "pyrotech:adapt/twine",
+        "pyrotech:bloom/living_tar",
+        "pyrotech:innovate/soaking_pot",
+        "pyrotech:survive/fishing_rod_crude",
+        "pyrotech:survive/hammer_crude",
+        "pyrotech:survive/fiber_torch",
+        "pyrotech:innovate/storage_durable",
+        "pyrotech:accelerate/coal_coke",
+        "pyrotech:accelerate/refractory_tank",
+        "pyrotech:accelerate/bellows"
+      ],
+      "bookmarks": [
+        {
+          "entry": "pyrotech:survive/campfire",
+          "page": 0
+        }
+      ],
+      "history": [
+        "pyrotech:accelerate/bloomery",
+        "pyrotech:accelerate/bellows",
+        "pyrotech:accelerate/igniters",
+        "pyrotech:accelerate/coal_coke",
+        "pyrotech:accelerate/refractory_burn",
+        "pyrotech:accelerate/refractory_tank",
+        "pyrotech:adapt/anvil_granite",
+        "pyrotech:innovate/stone_brick",
+        "pyrotech:survive/food_roasted",
+        "pyrotech:gather/storage",
+        "pyrotech:innovate/storage_durable",
+        "pyrotech:survive/campfire",
+        "pyrotech:survive/introduction"
+      ],
+      "completedManualQuests": []
+    },
+    "tinkersforging:book": {
+      "viewedEntries": [
+        "tinkersforging:items/armor",
+        "tinkersforging:forging/rules"
+      ],
+      "bookmarks": [],
+      "history": [
+        "tinkersforging:forging/rules",
+        "tinkersforging:items/armor"
+      ],
+      "completedManualQuests": []
+    },
+    "nuclearcraft:guide": {
+      "viewedEntries": [
+        "nuclearcraft:fusion/fusion",
+        "nuclearcraft:multiblocks/rtgs",
+        "nuclearcraft:multiblocks/turbine",
+        "nuclearcraft:multiblocks/batteries",
+        "nuclearcraft:machines/other",
+        "nuclearcraft:multiblocks/multitool",
+        "nuclearcraft:fission/solid_fuel",
+        "nuclearcraft:machines/processors"
+      ],
+      "bookmarks": [],
+      "history": [
+        "nuclearcraft:machines/processors",
+        "nuclearcraft:machines/other",
+        "nuclearcraft:fission/solid_fuel",
+        "nuclearcraft:multiblocks/multitool",
+        "nuclearcraft:multiblocks/batteries",
+        "nuclearcraft:multiblocks/turbine",
+        "nuclearcraft:multiblocks/rtgs",
+        "nuclearcraft:fusion/fusion"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}

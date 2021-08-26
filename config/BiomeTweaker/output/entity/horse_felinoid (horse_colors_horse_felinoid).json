@@ -1,0 +1,6 @@
+
+{
+  "Name": "horse_felinoid",
+  "Registry ID": "horse_colors:horse_felinoid",
+  "Class": "felinoid.horse_colors.EntityHorseFelinoid"
+}

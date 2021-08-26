@@ -1,0 +1,10 @@
+minecraft:farmer
+minecraft:librarian
+minecraft:priest
+minecraft:smith
+minecraft:butcher
+minecraft:nitwit
+fossil:archeologist
+fossil:palaeontologist
+matteroverdrive:mad_scientist
+immersiveengineering:engineer

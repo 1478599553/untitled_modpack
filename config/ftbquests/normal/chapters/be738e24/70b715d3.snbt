@@ -1,0 +1,17 @@
+{
+	x: 14.5d,
+	y: 2.0d,
+	text: [
+		"需要齿轮自动给燃烧类机器鼓风，解放你的生产力！"
+	],
+	dependencies: [
+		"969020eb"
+	],
+	tasks: [{
+		uid: "f45326fc",
+		type: "item",
+		items: [{
+			item: "pyrotech:mechanical_bellows"
+		}]
+	}]
+}

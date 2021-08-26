@@ -1,0 +1,17 @@
+{
+	x: 14.5d,
+	y: -1.0d,
+	text: [
+		"踩在风箱上给燃烧类机器鼓风吧！"
+	],
+	dependencies: [
+		"969020eb"
+	],
+	tasks: [{
+		uid: "4a1a3f8d",
+		type: "item",
+		items: [{
+			item: "pyrotech:bellows"
+		}]
+	}]
+}

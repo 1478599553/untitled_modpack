@@ -1,0 +1,14 @@
+{
+	x: 14.5d,
+	y: 0.5d,
+	dependencies: [
+		"01d55e91"
+	],
+	tasks: [{
+		uid: "be4fc62e",
+		type: "item",
+		items: [{
+			item: "pyrotech:bloomery"
+		}]
+	}]
+}

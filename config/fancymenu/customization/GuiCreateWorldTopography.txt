@@ -1,0 +1,22 @@
+type = menu
+
+customization-meta {
+  identifier = com.bloodnbonesgaming.topography.client.gui.GuiCreateWorldTopography
+  renderorder = foreground
+}
+
+customization {
+  identifier = %id=112%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=90%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=134%
+  action = hidebutton
+}
+

@@ -1,0 +1,17 @@
+{
+	x: -3.5d,
+	y: 0.5d,
+	text: [
+		"将坑窑放在一格深的坑里，再放入需要烧制的物品，然后放入稻草捆，再摆上几根原木，最后点火即可。"
+	],
+	dependencies: [
+		"28c4045c"
+	],
+	tasks: [{
+		uid: "336aca03",
+		type: "item",
+		items: [{
+			item: "pyrotech:kiln_pit"
+		}]
+	}]
+}

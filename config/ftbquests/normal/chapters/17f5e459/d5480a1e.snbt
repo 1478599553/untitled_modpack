@@ -1,0 +1,17 @@
+{
+	x: 7.5d,
+	y: -48.5d,
+	text: [
+		"橡木可以在洞穴中找到，如果你足够闲，你也可以从风滚草里面打出树苗来种。"
+	],
+	dependencies: [
+		"45157839"
+	],
+	tasks: [{
+		uid: "ed1f37b8",
+		type: "item",
+		items: [{
+			item: "minecraft:log"
+		}]
+	}]
+}

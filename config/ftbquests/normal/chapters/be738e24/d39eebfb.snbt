@@ -1,0 +1,17 @@
+{
+	x: 1.0d,
+	y: 0.5d,
+	text: [
+		"可以通过挖掘砂砾获得。"
+	],
+	dependencies: [
+		"3625eca0"
+	],
+	tasks: [{
+		uid: "1ce7c9b0",
+		type: "item",
+		items: [{
+			item: "pyrotech:rock 1 1"
+		}]
+	}]
+}

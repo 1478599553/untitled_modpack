@@ -1,0 +1,6 @@
+{ "dimensions":
+     [ 
+         { "dim": 9, "dimensiontype": { "id": 9, "name": "THE SKY", "suffix": "_dim9", "keeploaded": false, "worldprovider": "WorldProviderSurfaceJED","biome": "name" } }, 
+         { "dim": 10, "dimensiontype": { "id": 10, "name": "Test dim 10", "suffix": "_dim10", "keeploaded": false, "worldprovider": "WorldProviderHellJED" } }, 
+         { "dim": 11, "dimensiontype": { "id": 11, "name": "Test dim 11", "suffix": "_dim11", "keeploaded": false, "worldprovider": "WorldProviderEndJED" } }, 
+         { "dim": 15, "dimensiontype": { "id": 15, "name": "Test dim 15", "suffix": "_dim15", "keeploaded": false, "worldprovider": "biomesoplenty.common.world.WorldProviderHellBOP" } } ] }

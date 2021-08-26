@@ -1,0 +1,17 @@
+{
+	x: 8.5d,
+	y: -51.0d,
+	text: [
+		"使用锹挖掘燧石可以获得燧石碎片。"
+	],
+	dependencies: [
+		"45157839"
+	],
+	tasks: [{
+		uid: "a57e72dd",
+		type: "item",
+		items: [{
+			item: "pyrotech:material 1 10"
+		}]
+	}]
+}

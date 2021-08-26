@@ -1,0 +1,14 @@
+{
+	x: 14.5d,
+	y: -51.0d,
+	dependencies: [
+		"bc74b616"
+	],
+	tasks: [{
+		uid: "b7cf5a35",
+		type: "item",
+		items: [{
+			item: "pyrotech:torch_fiber"
+		}]
+	}]
+}

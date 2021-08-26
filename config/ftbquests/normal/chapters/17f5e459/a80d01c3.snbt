@@ -1,0 +1,17 @@
+{
+	x: 15.5d,
+	y: -50.0d,
+	text: [
+		"右键把物品放在工作桌上，用锤子右击即可合成。"
+	],
+	dependencies: [
+		"369f1707"
+	],
+	tasks: [{
+		uid: "07f78624",
+		type: "item",
+		items: [{
+			item: "pyrotech:worktable"
+		}]
+	}]
+}

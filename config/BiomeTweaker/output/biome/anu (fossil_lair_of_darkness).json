@@ -1,0 +1,46 @@
+
+{
+  "ID": 40,
+  "Name": "anu",
+  "Resource Location": "fossil:lair of darkness",
+  "Class": "fossilsarcheology.server.world.FADimensionBiome",
+  "Root Height": 0.1,
+  "Height Variation": 0.2,
+  "Top Block": "minecraft:netherrack",
+  "Filler Block": "minecraft:netherrack",
+  "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
+  "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",
+  "Actual Filler Blocks": "Disabled. Activate in BiomeTweakerCore.",
+  "Grass Color": "Disabled. Activate in BiomeTweakerCore.",
+  "Foliage Color": "Disabled. Activate in BiomeTweakerCore.",
+  "Water Color": "16777215",
+  "Temperature": 2.0,
+  "Humidity": 0.5,
+  "Water Tint": 16777215,
+  "Enable Rain": false,
+  "Enable Snow": false,
+  "Dictionary Types": [
+    "NETHER",
+    "VOID"
+  ],
+  "BiomeManager Entries": {},
+  "Spawnable Creatures": [],
+  "Spawnable Monsters": [
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntityPigZombie",
+      "Weight": 200,
+      "Min Group Count": 1,
+      "Max Group Count": 8
+    },
+    {
+      "Entity Class": "fossilsarcheology.server.entity.monster.EntitySentryPigman",
+      "Weight": 600,
+      "Min Group Count": 2,
+      "Max Group Count": 8
+    }
+  ],
+  "Spawnable Water Creatures": [],
+  "Spawnable Cave Creatures": [],
+  "Spawn Biome": false,
+  "Tweaked": false
+}

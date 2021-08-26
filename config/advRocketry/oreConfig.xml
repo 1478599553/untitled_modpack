@@ -1,0 +1,5 @@
+<OreConfig>
+<oreGen pressure="1" temp="1">
+        <ore block="matteroverdrive:tritanium_ore" minHeight="20" maxHeight="80" clumpSize="12" chancePerChunk="7" />
+    </oreGen>
+</OreConfig>
