@@ -32,11 +32,11 @@ clusteriron.register();
 	//////////////
 	var copper = MaterialSystem.getMaterialBuilder().setName("Copper").setColor(15766817).build();
 	var tin = MaterialSystem.getMaterialBuilder().setName("Tin").setColor(10275286).build();
-	var silver = MaterialSystem.getMaterialBuilder().setName("Silver").setColor(15592941).build();
+    var iron = MaterialSystem.getMaterialBuilder().setName("Iron").setColor(15592941).build();
 	var lead = MaterialSystem.getMaterialBuilder().setName("Lead").setColor(5658219).build();
 	var cobalt = MaterialSystem.getMaterialBuilder().setName("Cobalt").setColor(18347).build();
 	
-	var metal_list = [copper, tin, silver, lead, cobalt] as Material[];
+	var metal_list = [copper, tin, iron, lead, cobalt] as Material[];
 	var part_names = ["dirty_dust"] as string[]; //"gear", "plate", "nugget", "ingot", "beam", "bolt"
 	//var ore_types = ["ore", "poor_ore", "dense_ore"] as string[];
 	

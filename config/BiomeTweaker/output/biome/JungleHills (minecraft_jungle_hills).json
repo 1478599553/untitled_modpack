@@ -22,8 +22,8 @@
   "Dictionary Types": [
     "WET",
     "DENSE",
-    "JUNGLE",
     "HILLS",
+    "JUNGLE",
     "HOT"
   ],
   "BiomeManager Entries": {},

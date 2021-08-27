@@ -1,62 +1,11 @@
 {
   "savedSubBlockNames": {
     "0": {
-      "0": "cobalt_poor_ore_minecraft_stone",
-      "1": "lead_dense_ore_minecraft_stone",
-      "2": "copper_ore_minecraft_stone",
-      "3": "tin_dense_ore_minecraft_stone",
-      "4": "cobalt_dense_ore_minecraft_end_stone",
-      "5": "lead_poor_ore_minecraft_end_stone",
-      "6": "tin_dense_ore_minecraft_netherrack",
-      "7": "silver_dense_ore_minecraft_end_stone",
       "8": "copper_block",
-      "9": "tin_block",
-      "10": "cobalt_ore_minecraft_stone",
-      "11": "tin_poor_ore_minecraft_stone",
-      "12": "lead_block",
-      "13": "copper_dense_ore_minecraft_netherrack",
-      "14": "tin_poor_ore_minecraft_netherrack",
-      "15": "tin_ore_minecraft_netherrack"
+      "9": "tin_block"
     },
-    "1": {
-      "0": "copper_ore_minecraft_end_stone",
-      "1": "silver_ore_minecraft_netherrack",
-      "2": "silver_ore_minecraft_stone",
-      "3": "lead_poor_ore_minecraft_netherrack",
-      "4": "copper_dense_ore_minecraft_end_stone",
-      "5": "copper_dense_ore_minecraft_stone",
-      "6": "cobalt_block",
-      "7": "lead_ore_minecraft_stone",
-      "8": "cobalt_ore_minecraft_netherrack",
-      "9": "lead_ore_minecraft_end_stone",
-      "10": "cobalt_ore_minecraft_end_stone",
-      "11": "tin_ore_minecraft_end_stone",
-      "12": "silver_ore_minecraft_end_stone",
-      "13": "cobalt_dense_ore_minecraft_netherrack",
-      "14": "silver_poor_ore_minecraft_netherrack",
-      "15": "silver_poor_ore_minecraft_stone"
-    },
-    "2": {
-      "0": "copper_ore_minecraft_netherrack",
-      "1": "lead_poor_ore_minecraft_stone",
-      "2": "cobalt_poor_ore_minecraft_netherrack",
-      "3": "copper_poor_ore_minecraft_end_stone",
-      "4": "tin_dense_ore_minecraft_end_stone",
-      "5": "cobalt_dense_ore_minecraft_stone",
-      "6": "cobalt_poor_ore_minecraft_end_stone",
-      "7": "copper_poor_ore_minecraft_stone",
-      "8": "tin_poor_ore_minecraft_end_stone",
-      "9": "lead_dense_ore_minecraft_netherrack",
-      "10": "silver_dense_ore_minecraft_netherrack",
-      "11": "lead_ore_minecraft_netherrack",
-      "12": "silver_block",
-      "13": "tin_ore_minecraft_stone",
-      "14": "copper_poor_ore_minecraft_netherrack",
-      "15": "lead_dense_ore_minecraft_end_stone"
-    },
-    "3": {
-      "0": "silver_dense_ore_minecraft_stone",
-      "1": "silver_poor_ore_minecraft_end_stone"
-    }
+    "1": {},
+    "2": {},
+    "3": {}
   }
 }
