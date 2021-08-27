@@ -8,13 +8,21 @@
 		"远处的风滚草似乎能带来一线生机..."
 	],
 	dependencies: [
-		"b4507cfe"
+		"b96aee1e"
 	],
 	tasks: [{
 		uid: "d26c39fb",
 		type: "item",
 		items: [{
 			item: "pyrotech:material 1 12"
+		}],
+		count: 10L
+	},
+	{
+		uid: "b4881fb5",
+		type: "item",
+		items: [{
+			item: "pyrotech:material 1 13"
 		}],
 		count: 10L
 	}]

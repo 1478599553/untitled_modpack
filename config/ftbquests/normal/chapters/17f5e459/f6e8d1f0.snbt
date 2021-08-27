@@ -1,12 +1,12 @@
 {
 	title: "石粒！",
-	x: 3.0d,
-	y: -50.0d,
+	x: 2.0d,
+	y: -50.5d,
 	text: [
 		"地上散落着一些小石块，我顺手把它们收入囊中。"
 	],
 	dependencies: [
-		"dfc646dc"
+		"b96aee1e"
 	],
 	tasks: [{
 		uid: "41c12061",

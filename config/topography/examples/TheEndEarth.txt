@@ -109,3 +109,14 @@ addGenerator(IronLake)
 CopperLake = new VanillaLakeGenerator(<contenttweaker:molten_copper>)
 CopperLake.setSpawnChance(25)
 addGenerator(CopperLake)
+
+
+
+
+//plz add lakes before this
+
+
+
+basalt = new LayerGenerator()
+basalt.addLayer(55~100,<advancedrocketry:basalt>,<minecraft:stone>)
+addGenerator(basalt)
