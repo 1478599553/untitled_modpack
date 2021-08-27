@@ -32,4 +32,4 @@ recipes.addShaped(<immersiveengineering:tool>, [[null, <ore:ingotCopper>, <minec
 
 recipes.replaceAllOccurences(<enderio:item_material:20>, <matteroverdrive:isolinear_circuit:1>);
 
-recipes.replaceAllOccurences(<contenttweaker:bottle>, <minecraft:glass_bottle>);
+recipes.replaceAllOccurences(<minecraft:glass_bottle>,<contenttweaker:bottle> );

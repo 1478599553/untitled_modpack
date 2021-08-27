@@ -6,6 +6,7 @@ import mods.contenttweaker.Commands;
 import mods.contenttweaker.ItemFood;
 import mods.contenttweaker.MaterialSystem;
 import mods.contenttweaker.Material;
+import mods.contenttweaker.PartBuilder;
 
 var bottle = VanillaFactory.createItem("bottle");
 bottle.maxStackSize = 64;
@@ -22,6 +23,16 @@ var clusteriron = VanillaFactory.createItem("cluster_iron");
 clusteriron.maxStackSize = 64;
 clusteriron.register();
 
+//part builder
+var cluster = mods.contenttweaker.MaterialSystem.getPartBuilder();
+cluster.setName("cluster");
+cluster.setPartType(MaterialSystem.getPartType("item"));
+var clusterPart = cluster.build();
+
+var denseIngotPart = mods.contenttweaker.MaterialSystem.getPartBuilder().setName("dense_ingot").setPartType(mods.contenttweaker.MaterialSystem.getPartType("item")).setOreDictName("superIngot").build();
+//end
+
+
 	//////////
 	// Calls
 	//////////
@@ -37,7 +48,7 @@ clusteriron.register();
 	var cobalt = MaterialSystem.getMaterialBuilder().setName("Cobalt").setColor(18347).build();
 	
 	var metal_list = [copper, tin, iron, lead, cobalt] as Material[];
-	var part_names = ["dirty_dust"] as string[]; //"gear", "plate", "nugget", "ingot", "beam", "bolt"
+	var part_names = ["dirty_dust","cluster"] as string[]; //"gear", "plate", "nugget", "ingot", "beam", "bolt"
 	//var ore_types = ["ore", "poor_ore", "dense_ore"] as string[];
 	
 	///////////////////////////
