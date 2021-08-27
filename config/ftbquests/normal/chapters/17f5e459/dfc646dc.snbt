@@ -8,7 +8,7 @@
 		"远处的风滚草似乎能带来一线生机..."
 	],
 	dependencies: [
-		"b96aee1e"
+		"b4507cfe"
 	],
 	tasks: [{
 		uid: "d26c39fb",

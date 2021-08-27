@@ -1,0 +1,14 @@
+{
+	x: -2.5d,
+	y: 1.5d,
+	dependencies: [
+		"959b5477"
+	],
+	tasks: [{
+		uid: "3beeb6b8",
+		type: "item",
+		items: [{
+			item: "contenttweaker:cluster_iron"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -0.5d,
+	y: -49.5d,
+	dependencies: [
+		"b96aee1e"
+	],
+	tasks: [{
+		uid: "e4660333",
+		type: "item",
+		items: [{
+			item: "comforts:sleeping_bag 1 1"
+		}]
+	}]
+}

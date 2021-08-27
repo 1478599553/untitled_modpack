@@ -1,0 +1,15 @@
+{
+	x: 0.5d,
+	y: 0.0d,
+	dependencies: [
+		"33cfdeef",
+		"6df5bc14"
+	],
+	tasks: [{
+		uid: "ba89a9ce",
+		type: "item",
+		items: [{
+			item: "foundry:mold_station"
+		}]
+	}]
+}

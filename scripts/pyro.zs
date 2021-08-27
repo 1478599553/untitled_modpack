@@ -38,7 +38,7 @@ SoakingPot.addRecipe(
 SoakingPot.addRecipe(
   "iron_procession",             // unique recipe name
   <contenttweaker:cluster_iron>,       // recipe output
-  <liquid:molten_iron> * 4000, // input fluid
+  <liquid:molten_iron> * 2000, // input fluid
   <pyrotech:material:22> * 3,   // input item
   1200            // recipe duration in ticks
 );

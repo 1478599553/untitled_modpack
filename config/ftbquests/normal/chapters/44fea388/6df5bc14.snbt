@@ -1,0 +1,15 @@
+{
+	x: -1.0d,
+	y: 0.0d,
+	dependencies: [
+		"959b5477",
+		"615a0e62"
+	],
+	tasks: [{
+		uid: "a8485a79",
+		type: "item",
+		items: [{
+			item: "foundry:burner_heater"
+		}]
+	}]
+}
