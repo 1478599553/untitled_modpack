@@ -31,3 +31,5 @@ recipes.remove(<immersiveengineering:tool>);
 recipes.addShaped(<immersiveengineering:tool>, [[null, <ore:ingotCopper>, <minecraft:string>],[null, <minecraft:stick>, <ore:ingotCopper>], [<minecraft:stick>, null, null]]);
 
 recipes.replaceAllOccurences(<enderio:item_material:20>, <matteroverdrive:isolinear_circuit:1>);
+
+recipes.replaceAllOccurences(<contenttweaker:bottle>, <minecraft:glass_bottle>);
