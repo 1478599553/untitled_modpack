@@ -96,6 +96,7 @@
   "recipehandler": "0.13",
   "dynamicstealth": "1.12.2.113",
   "hw_inv": "1.12.1-1.1.13",
+  "inworldcrafting": "1.12.2-1.2.0",
   "what": "0.2",
   "base": "3.13.0",
   "cannibalism": "5.6.6",

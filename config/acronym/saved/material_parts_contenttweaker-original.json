@@ -1,8 +1,14 @@
 {
   "materialMappings": {
+    "cobalt_dirty_dust": 110,
+    "iron_dirty_dust": 106,
     "copper_dirty_dust": 104,
     "tin_block": 21,
     "copper_block": 10,
-    "tin_dirty_dust": 105
+    "lead_block": 109,
+    "lead_dirty_dust": 108,
+    "iron_block": 107,
+    "tin_dirty_dust": 105,
+    "cobalt_block": 111
   }
 }

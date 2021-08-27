@@ -22,15 +22,11 @@ recipes.remove(<immersiveengineering:metal_decoration2:4>);
 recipes.addShaped(<immersiveengineering:metal_decoration2:4>, [[<immersiveengineering:metal:39>, <immersiveengineering:metal:39>, <immersiveengineering:metal:39>],[<minecraft:glass_pane>, <immersiveengineering:material:22>, <minecraft:glass_pane>], [<immersiveengineering:metal:39>, <nuclearcraft:rtg_plutonium>, <immersiveengineering:metal:39>]]);
 recipes.remove(<fossil:skull_lantern>);
 
-recipes.remove(<angrysun:thermalunderwear_head>);
-recipes.remove(<angrysun:stitched_reed>);
-recipes.addShaped(<angrysun:thermalunderwear_head>, [[<minecraft:wool>, <minecraft:wool>, <minecraft:wool>],[<minecraft:wool>, <minecraft:water_bucket>, <minecraft:wool>], [null, null, null]]);
+
 recipes.remove(<matteroverdrive:decorative.tritanium_lamp>);
 recipes.remove(<matteroverdrive:decorative.tritanium_lamp:1>);
 recipes.remove(<mts:streetlight>);
 recipes.remove(<minecraft:redstone_lamp>);
-recipes.remove(<angrysun:thermalunderwear_chest>);
-recipes.addShaped(<angrysun:thermalunderwear_chest>, [[<minecraft:wool>, <minecraft:wool>, <minecraft:wool>],[<minecraft:wool>, <minecraft:water_bucket>, <minecraft:wool>], [<minecraft:wool>, <minecraft:water_bucket>, <minecraft:wool>]]);
 recipes.remove(<immersiveengineering:tool>);
 recipes.addShaped(<immersiveengineering:tool>, [[null, <ore:ingotCopper>, <minecraft:string>],[null, <minecraft:stick>, <ore:ingotCopper>], [<minecraft:stick>, null, null]]);
 

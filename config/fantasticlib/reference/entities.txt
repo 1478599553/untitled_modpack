@@ -222,8 +222,8 @@ astikorcarts:cargocart
 astikorcarts:plowcart
 astikorcarts:mobcart
 comforts:_entity_rest
-enderio:primed_charge
 enderio:owl_egg
+enderio:primed_charge
 enderio:falling_machine
 iceandfire:dragonegg
 iceandfire:dragonarrow

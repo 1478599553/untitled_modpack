@@ -63,3 +63,13 @@ clusteriron.register();
 	    blockData.addDataValue("harvestTool", "pickaxe");
 	    blockData.addDataValue("harvestLevel", "1");
 	}
+
+
+
+var twinecoil = VanillaFactory.createItem("twine_coil");
+twinecoil.maxStackSize = 64;
+twinecoil.register();
+
+var durabletwinecoil = VanillaFactory.createItem("twine_durable_coil");
+durabletwinecoil.maxStackSize = 64;
+durabletwinecoil.register();

@@ -32,10 +32,10 @@ advancedrocketry:spacebreathing
 endercore:xpboost
 endercore:autosmelt
 enderio:witherarrow
-enderio:soulbound
-enderio:witherweapon
-enderio:shimmer
 enderio:repellent
+enderio:shimmer
+enderio:witherweapon
+enderio:soulbound
 fossil:archeology
 fossil:paleontology
 spartanshields:ssenchspikes

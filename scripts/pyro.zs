@@ -4,6 +4,7 @@ import mods.pyrotech.SoakingPot;
 import mods.pyrotech.CrudeDryingRack;
 import mods.pyrotech.GraniteAnvil;
 import mods.pyrotech.PitKiln;
+import mods.pyrotech.IroncladAnvil;
 
 StoneCrucible.addRecipe(
   "waterstone",                // unique recipe name
@@ -42,7 +43,10 @@ SoakingPot.addRecipe(
   1200            // recipe duration in ticks
 );
 
-GraniteAnvil.addRecipe("iron_process", [<contenttweaker:material_part:106> * 2], <contenttweaker:cluster_iron>, 12, "hammer");
+GraniteAnvil.addRecipe("iron_process1", <contenttweaker:material_part:106>, <contenttweaker:cluster_iron>, 12, "hammer");
+
+
+IroncladAnvil.addRecipe("iron_process2", <contenttweaker:material_part:106>, <contenttweaker:cluster_iron>, 10, "hammer");
 
 recipes.remove(<pyrotech:soaking_pot>);
 recipes.addShaped(<pyrotech:soaking_pot>, [[<minecraft:iron_ingot>, null, <minecraft:iron_ingot>],[<minecraft:planks>, <minecraft:iron_ingot>, <minecraft:planks>], [<minecraft:planks>, <minecraft:iron_ingot>, <minecraft:planks>]]);

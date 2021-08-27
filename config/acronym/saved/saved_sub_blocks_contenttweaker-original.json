@@ -1,6 +1,9 @@
 {
   "savedSubBlockNames": {
     "0": {
+      "0": "iron_block",
+      "1": "lead_block",
+      "2": "cobalt_block",
       "8": "copper_block",
       "9": "tin_block"
     },
