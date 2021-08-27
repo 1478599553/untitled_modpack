@@ -46,3 +46,4 @@ CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.5.4, ve
 [09:12:26] [Client thread/INFO] [JourneymapClient] Mapping started in F:\GRASS_CRAFT\.minecraft\journeymap\data\sp\~SGAGAW\DIM0. Memory: 8192MB total, 5581MB free 
 [09:12:28] [Client thread/INFO] [ChatLog] 旅行地图： 按下[J]键
 [09:14:32] [Client thread/INFO] [StateTickHandler] TEST died at BlockPos{x=-253, y=68, z=-307}. Deathpoints enabled: true. Deathpoint created: true
+[09:58:47] [Client thread/INFO] [JourneymapClient] Mapping halted in F:\GRASS_CRAFT\.minecraft\journeymap\data\sp\~SGAGAW\DIM0
