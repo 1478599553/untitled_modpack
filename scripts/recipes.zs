@@ -1,6 +1,7 @@
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
 //#Remove
+
 recipes.removeShaped(<emergingtechnology:torch>, [[null, <emergingtechnology:plasticblock>, null],[null, <ore:blockGlassColorless>, null], [null, <minecraft:iron_ingot>, null]]);
 recipes.removeShaped(<advancedrocketry:thermitetorch>, [[<minecraft:stick>, <advancedrocketry:thermite>, null],[null, null, null], [null, null, null]]);
 recipes.removeShaped(<minecraft:coal:1>, [[<iceandfire:ash>, <iceandfire:ash>, <iceandfire:ash>],[<iceandfire:ash>, <iceandfire:ash>, <iceandfire:ash>], [<iceandfire:ash>, <iceandfire:ash>, <iceandfire:ash>]]);
@@ -35,6 +36,7 @@ recipes.remove(<immersiveengineering:metal:19>);
 //recipes.remove(<toughasnails:campfire>);
 //Don't touch me!
 //#Add
+
 recipes.addShaped(<minecraft:emerald>, [[<minecraft:dye:2>, <minecraft:dye:2>, <minecraft:dye:2>],[<minecraft:dye:2>, <minecraft:diamond>, <minecraft:dye:2>], [<minecraft:dye:2>, <minecraft:dye:2>, <minecraft:dye:2>]]);
 recipes.addShaped(<pyrotech:bow_drill>, [[<minecraft:bow>.anyDamage(), <minecraft:stick>, null],[null, null, null], [null, null, null]]);
 recipes.addShaped(<advancedrocketry:seat>, [[null, null, null],[<minecraft:wool:*>, null, <minecraft:wool:*>], [<minecraft:wool:*>, <minecraft:wool:*>, <minecraft:wool:*>]]);

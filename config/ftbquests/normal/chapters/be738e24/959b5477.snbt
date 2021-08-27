@@ -1,0 +1,12 @@
+{
+	x: 19.0d,
+	y: 0.5d,
+	dependencies: [
+		"df5ca971"
+	],
+	tasks: [{
+		uid: "6436e3f3",
+		type: "fluid",
+		fluid: "molten_iron"
+	}]
+}
