@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 2.0d,
+	dependencies: [
+		"963874c6"
+	],
+	tasks: [{
+		uid: "42a7fefb",
+		type: "item",
+		items: [{
+			item: "contenttweaker:cactuspie"
+		}]
+	}]
+}

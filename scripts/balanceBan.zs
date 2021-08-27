@@ -33,3 +33,6 @@ recipes.addShaped(<immersiveengineering:tool>, [[null, <ore:ingotCopper>, <minec
 recipes.replaceAllOccurences(<enderio:item_material:20>, <matteroverdrive:isolinear_circuit:1>);
 
 recipes.replaceAllOccurences(<minecraft:glass_bottle>,<contenttweaker:bottle> );
+
+recipes.remove(<pyrotech:material:4> * 5);
+recipes.addShaped(<pyrotech:material:4> * 5, [[<pyrotech:rock>, <minecraft:clay_ball>, <pyrotech:rock>],[<minecraft:clay_ball>, <ore:dustAluminum>, <minecraft:clay_ball>], [<pyrotech:rock>, <minecraft:clay_ball>, <pyrotech:rock>]]);

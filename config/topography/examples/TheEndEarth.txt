@@ -105,3 +105,7 @@ addGenerator(nosantai)
 IronLake = new VanillaLakeGenerator(<contenttweaker:molten_iron>)
 IronLake.setSpawnChance(34)
 addGenerator(IronLake)
+
+CopperLake = new VanillaLakeGenerator(<contenttweaker:molten_copper>)
+CopperLake.setSpawnChance(25)
+addGenerator(CopperLake)
