@@ -38,11 +38,11 @@ minecraft:luck
 dynamicstealth:soulsight
 dynamicstealth:blindness
 dynamicstealth:glowing
+enderio:withering
+enderio:long_withering
 enderio:floating
 enderio:strong_floating
 enderio:long_floating
-enderio:withering
-enderio:long_withering
 enderio:confusion
 enderio:long_confusion
 tektopia:village_bless

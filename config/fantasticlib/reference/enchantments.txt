@@ -31,11 +31,11 @@ minecraft:vanishing_curse
 advancedrocketry:spacebreathing
 endercore:xpboost
 endercore:autosmelt
-enderio:witherweapon
 enderio:soulbound
 enderio:shimmer
 enderio:witherarrow
 enderio:repellent
+enderio:witherweapon
 fossil:archeology
 fossil:paleontology
 spartanshields:ssenchspikes

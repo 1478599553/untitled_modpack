@@ -1,15 +1,12 @@
 {
   "materialMappings": {
-    "tin_molten": 117,
-    "lead_molten": 119,
-    "iron_molten": 118,
     "copper_dirty_dust": 104,
     "tin_cluster": 112,
-    "cobalt_molten": 120,
     "cobalt_cluster": 115,
     "iron_block": 107,
     "tin_dirty_dust": 105,
     "cobalt_block": 111,
+    "copper_cluster": 120,
     "cobalt_dirty_dust": 110,
     "lead_cluster": 114,
     "iron_dirty_dust": 106,
@@ -17,7 +14,6 @@
     "copper_block": 10,
     "lead_block": 109,
     "lead_dirty_dust": 108,
-    "iron_cluster": 113,
-    "copper_molten": 116
+    "iron_cluster": 113
   }
 }

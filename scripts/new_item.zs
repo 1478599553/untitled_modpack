@@ -48,7 +48,7 @@ var denseIngotPart = mods.contenttweaker.MaterialSystem.getPartBuilder().setName
 	var cobalt = MaterialSystem.getMaterialBuilder().setName("Cobalt").setColor(18347).build();
 	
 	var metal_list = [copper, tin, iron, lead, cobalt] as Material[];
-	var part_names = ["dirty_dust","cluster","molten"] as string[]; //"gear", "plate", "nugget", "ingot", "beam", "bolt"
+	var part_names = ["dirty_dust","cluster"] as string[]; //"gear", "plate", "nugget", "ingot", "beam", "bolt"
 	//var ore_types = ["ore", "poor_ore", "dense_ore"] as string[];
 	
 	///////////////////////////
